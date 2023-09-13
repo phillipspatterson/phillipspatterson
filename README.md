@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">⚙️Salesforce Technologies</h3>
+<h3 align="left">☁️Salesforce Technologies</h3>
 
 ###
 
