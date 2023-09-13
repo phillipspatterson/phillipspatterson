@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="left">👨🏾‍💻  About Me</h3>
+<h3 align="left">👨🏾‍💻 About Me</h3>
 
 ###
 
-<p align="left">🌍  I'm based in Houston<br>🧠  I'm learning AmpScript, Apex, HTML, Javascript, and CSS</p>
+<p align="left">🌍 I'm based in Houston<br>🧠 I'm learning AmpScript, Apex, HTML, Javascript, and CSS</p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">☁️Salesforce Technologies</h3>
+<h3 align="left">☁️ Salesforce Technologies</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">⭐Salesforce Credentials</h3>
+<h3 align="left">⭐ Salesforce Credentials</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
