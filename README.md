@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Houston<br>🧠 I'm learning AmpScript, Apex, HTML, Javascript, and CSS</p>
+<p align="left">🌍 I'm based in Houston<br>🧠 I'm learning AmpScript, Apex, CSS, HTML, and Javascript</p>
 
 ###
 
