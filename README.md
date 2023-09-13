@@ -54,7 +54,7 @@
 
 <div align="left">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="80" alt="Salesforce Administrator"/>  
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="80" alt="Platform App Builder"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="80" alt="Platform App Builder"/>
 </div>
 
 ###
