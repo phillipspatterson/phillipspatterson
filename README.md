@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 my name is Phillip Patterson</h1>
+<h1 align="center">Hey 👋 my name is Phillip</h1>
 
 ###
 
